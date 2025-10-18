@@ -1,6 +1,20 @@
-venv/
+# Python
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# MacOS
 .DS_Store
-.env
+
+# PyTorch / Transformers caches
+*.pt
+*.bin
+*.ckpt
+cache/
