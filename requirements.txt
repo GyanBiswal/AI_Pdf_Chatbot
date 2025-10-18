@@ -1,5 +1,5 @@
 streamlit==1.27.0
-transformers==5.5.0
+transformers==4.37.2
 torch>=2.1.0
 sentence-transformers==2.2.2
 chromadb==0.4.1
